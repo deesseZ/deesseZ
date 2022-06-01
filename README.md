@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deesseZ
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on hydraulics and two-phas liquid
+- 💞️ I’m looking to collaborate on hydraulics and two-phase liquid
 - 📫 How to reach me ...
 
 <!---
